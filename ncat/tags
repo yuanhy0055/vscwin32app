@@ -1,0 +1,254 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ANDROID_REF_BASE_H	.\RefBase.h	2;"	d
+ANDROID_TMP_YUAN_H	.\yytmp.h	2;"	d
+BIGSIZ	.\netcat.c	132;"	d	file:
+BUFFER_SIZE	.\doexec.c	16;"	d	file:
+ClientSocket	.\doexec.c	/^    SOCKET  ClientSocket;$/;"	m	struct:__anon1	file:
+CreateSession	.\doexec.c	/^CreateSession($/;"	f	file:
+Debug	.\netcat.c	213;"	d	file:
+Debug	.\netcat.c	215;"	d	file:
+EADDRINUSE	.\netcat.c	93;"	d	file:
+ECONNREFUSED	.\netcat.c	95;"	d	file:
+ETIMEDOUT	.\netcat.c	94;"	d	file:
+FD_SETSIZE	.\netcat.c	52;"	d	file:
+FD_SETSIZE	.\netcat.c	55;"	d	file:
+FD_SETSIZE	.\netcat.c	57;"	d	file:
+FIRST_INC_STRONG	.\RefBase.h	/^		FIRST_INC_STRONG = 0x0001$/;"	e	enum:RefBase::__anon4
+GENERIC_H	.\generic.h	21;"	d
+Game1	.\Game1.h	/^class Game1 {$/;"	c
+HAVE_BIND	.\netcat.c	41;"	d	file:
+HAVE_DIRENT_H	.\generic.h	144;"	d
+HAVE_DIRENT_H	.\generic.h	80;"	d
+HAVE_FLOCK	.\generic.h	137;"	d
+HAVE_FLOCK	.\generic.h	227;"	d
+HAVE_FLOCK	.\generic.h	32;"	d
+HAVE_HELP	.\netcat.c	42;"	d	file:
+HAVE_LASTLOG_H	.\generic.h	146;"	d
+HAVE_LASTLOG_H	.\generic.h	179;"	d
+HAVE_LASTLOG_H	.\generic.h	205;"	d
+HAVE_LASTLOG_H	.\generic.h	212;"	d
+HAVE_LASTLOG_H	.\generic.h	222;"	d
+HAVE_LASTLOG_H	.\generic.h	86;"	d
+HAVE_LOGIN_H	.\generic.h	180;"	d
+HAVE_LSTAT	.\generic.h	139;"	d
+HAVE_LSTAT	.\generic.h	229;"	d
+HAVE_LSTAT	.\generic.h	42;"	d
+HAVE_NDBM	.\generic.h	50;"	d
+HAVE_PARAM_H	.\generic.h	148;"	d
+HAVE_PARAM_H	.\generic.h	92;"	d
+HAVE_PATHS_H	.\generic.h	147;"	d
+HAVE_PATHS_H	.\generic.h	156;"	d
+HAVE_PATHS_H	.\generic.h	164;"	d
+HAVE_PATHS_H	.\generic.h	172;"	d
+HAVE_PATHS_H	.\generic.h	233;"	d
+HAVE_PATHS_H	.\generic.h	89;"	d
+HAVE_RANDOM	.\generic.h	138;"	d
+HAVE_RANDOM	.\generic.h	39;"	d
+HAVE_RANDOM	.\netcat.c	63;"	d	file:
+HAVE_SETPRIORITY	.\generic.h	170;"	d
+HAVE_SETPRIORITY	.\generic.h	56;"	d
+HAVE_STDARG_H	.\generic.h	77;"	d
+HAVE_STDLIB_H	.\generic.h	71;"	d
+HAVE_STRINGS_H	.\generic.h	145;"	d
+HAVE_STRINGS_H	.\generic.h	171;"	d
+HAVE_STRINGS_H	.\generic.h	83;"	d
+HAVE_SYSINFO	.\generic.h	142;"	d
+HAVE_SYSINFO	.\generic.h	187;"	d
+HAVE_SYSINFO	.\generic.h	204;"	d
+HAVE_SYSINFO	.\generic.h	221;"	d
+HAVE_SYSINFO	.\generic.h	59;"	d
+HAVE_SYSMACROS_H	.\generic.h	149;"	d
+HAVE_SYSMACROS_H	.\generic.h	157;"	d
+HAVE_SYSMACROS_H	.\generic.h	206;"	d
+HAVE_SYSMACROS_H	.\generic.h	213;"	d
+HAVE_SYSMACROS_H	.\generic.h	93;"	d
+HAVE_TERMIOS	.\generic.h	140;"	d
+HAVE_TERMIOS	.\generic.h	231;"	d
+HAVE_TTYENT_H	.\generic.h	150;"	d
+HAVE_TTYENT_H	.\generic.h	173;"	d
+HAVE_TTYENT_H	.\generic.h	188;"	d
+HAVE_TTYENT_H	.\generic.h	214;"	d
+HAVE_TTYENT_H	.\generic.h	94;"	d
+HAVE_UNISTD_H	.\generic.h	143;"	d
+HAVE_UNISTD_H	.\generic.h	74;"	d
+HINF	.\netcat.c	147;"	d	file:
+Hmalloc	.\netcat.c	/^char * Hmalloc (size)$/;"	f
+IA	.\netcat.c	128;"	d	file:
+INADDR_NONE	.\netcat.c	136;"	d	file:
+IP_OPTIONS	.\netcat.c	64;"	d	file:
+LL	.\Game1.h	/^typedef list<int> LL;$/;"	t
+MAXHOSTNAMELEN	.\netcat.c	139;"	d	file:
+MAXHOSTNAMELEN	.\netcat.c	141;"	d	file:
+OBJECT_LIFETIME_MASK	.\RefBase.h	/^		OBJECT_LIFETIME_MASK    = 0x0001$/;"	e	enum:RefBase::__anon3
+OBJECT_LIFETIME_STRONG	.\RefBase.h	/^		OBJECT_LIFETIME_STRONG  = 0x0000,$/;"	e	enum:RefBase::__anon3
+OBJECT_LIFETIME_WEAK	.\RefBase.h	/^		OBJECT_LIFETIME_WEAK    = 0x0001,$/;"	e	enum:RefBase::__anon3
+PERMUTE	.\getopt.c	/^  REQUIRE_ORDER, PERMUTE, RETURN_IN_ORDER$/;"	e	enum:__anon2	file:
+PINF	.\netcat.c	153;"	d	file:
+PSESSION_DATA	.\doexec.c	/^} SESSION_DATA, *PSESSION_DATA;$/;"	t	typeref:struct:__anon1	file:
+ProcessHandle	.\doexec.c	/^    HANDLE  ProcessHandle;          \/\/ Handle to shell process$/;"	m	struct:__anon1	file:
+RAND	.\netcat.c	72;"	d	file:
+RAND	.\netcat.c	75;"	d	file:
+REQUIRE_ORDER	.\getopt.c	/^  REQUIRE_ORDER, PERMUTE, RETURN_IN_ORDER$/;"	e	enum:__anon2	file:
+RETURN_IN_ORDER	.\getopt.c	/^  REQUIRE_ORDER, PERMUTE, RETURN_IN_ORDER$/;"	e	enum:__anon2	file:
+ReadPipeHandle	.\doexec.c	/^    HANDLE  ReadPipeHandle;         \/\/ Handle to shell stdout pipe$/;"	m	struct:__anon1	file:
+ReadShellThreadHandle	.\doexec.c	/^    HANDLE  ReadShellThreadHandle;  \/\/ Handle to session shell-read thread$/;"	m	struct:__anon1	file:
+RefBase	.\RefBase.cpp	/^RefBase::RefBase(void):mRefs(0)$/;"	f	class:RefBase
+RefBase	.\RefBase.h	/^class RefBase$/;"	c
+ReferenceConverterBase	.\RefBase.h	/^class ReferenceConverterBase {$/;"	c
+SA	.\netcat.c	126;"	d	file:
+SAI	.\netcat.c	127;"	d	file:
+SESSION_DATA	.\doexec.c	/^} SESSION_DATA, *PSESSION_DATA;$/;"	t	typeref:struct:__anon1	file:
+SLEAZE_PORT	.\netcat.c	130;"	d	file:
+SMALLSIZ	.\netcat.c	133;"	d	file:
+SO_REUSEPORT	.\netcat.c	65;"	d	file:
+SRAND	.\netcat.c	71;"	d	file:
+SRAND	.\netcat.c	74;"	d	file:
+SessionReadShellThreadFn	.\doexec.c	/^SessionReadShellThreadFn($/;"	f	file:
+SessionWriteShellThreadFn	.\doexec.c	/^SessionWriteShellThreadFn($/;"	f	file:
+Single	.\netcat.c	/^USHORT Single = 1;		\/* zero if scanning *\/$/;"	v
+StartShell	.\doexec.c	/^StartShell($/;"	f	file:
+USHORT	.\netcat.c	131;"	d	file:
+UTMPX	.\generic.h	141;"	d
+UTMPX	.\generic.h	155;"	d
+UTMPX	.\generic.h	163;"	d
+UTMPX	.\generic.h	178;"	d
+UTMPX	.\generic.h	186;"	d
+UTMPX	.\generic.h	198;"	d
+UTMPX	.\generic.h	203;"	d
+UTMPX	.\generic.h	211;"	d
+UTMPX	.\generic.h	220;"	d
+UTMPX	.\generic.h	232;"	d
+UTMPX	.\generic.h	53;"	d
+VOID_MALLOC	.\generic.h	162;"	d
+VOID_MALLOC	.\generic.h	29;"	d
+WritePipeHandle	.\doexec.c	/^    HANDLE  WritePipeHandle;        \/\/ Handle to shell stdin pipe$/;"	m	struct:__anon1	file:
+WriteShellThreadHandle	.\doexec.c	/^    HANDLE  WriteShellThreadHandle; \/\/ Handle to session shell-read thread$/;"	m	struct:__anon1	file:
+_GETOPT_H	.\getopt.h	23;"	d
+_NO_PROTO	.\getopt.c	30;"	d	file:
+_getopt_initialize	.\getopt.c	/^_getopt_initialize (optstring)$/;"	f	file:
+_getopt_internal	.\getopt.c	/^_getopt_internal (argc, argv, optstring, longopts, longind, long_only)$/;"	f
+_yy_GAME1_H	.\Game1.h	2;"	d
+a	.\Game1.h	/^	int *a;$/;"	m	class:Game1
+addrs	.\netcat.c	/^  char addrs[8][24];		\/* ascii-format IP addresses *\/$/;"	m	struct:host_poop	file:
+anum	.\netcat.c	/^  char anum [8];		\/* ascii-format number *\/$/;"	m	struct:port_poop	file:
+arm	.\netcat.c	/^void arm (num, secs)$/;"	f
+atelnet	.\netcat.c	/^void atelnet (buf, size)$/;"	f
+bail	.\netcat.c	/^void bail (str, p1, p2, p3, p4, p5, p6)$/;"	f
+basetype	.\RefBase.h	/^	typedef RefBase basetype;$/;"	t	class:RefBase
+bigbuf_in	.\netcat.c	/^char * bigbuf_in;		\/* data buffers *\/$/;"	v
+bigbuf_net	.\netcat.c	/^char * bigbuf_net;$/;"	v
+catch	.\netcat.c	/^void catch ()$/;"	f
+comparehosts	.\netcat.c	/^int comparehosts (poop, hp)$/;"	f
+const	.\getopt.c	41;"	d	file:
+ding1	.\netcat.c	/^fd_set * ding1;			\/* for select loop *\/$/;"	v
+ding2	.\netcat.c	/^fd_set * ding2;$/;"	v
+doconnect	.\netcat.c	/^int doconnect (rad, rp, lad, lp)$/;"	f
+doexec	.\doexec.c	/^doexec($/;"	f
+doexec	.\netcat.c	/^doexec (fd)$/;"	f
+dolisten	.\netcat.c	/^int dolisten (rad, rp, lad, lp)$/;"	f
+dui	.\Game1.h	/^	int dui;$/;"	m	class:Game1
+exchange	.\getopt.c	/^exchange (argv)$/;"	f	file:
+findline	.\netcat.c	/^unsigned int findline (buf, siz)$/;"	f
+first_nonopt	.\getopt.c	/^static int first_nonopt;$/;"	v	file:
+flag	.\getopt.h	/^  int *flag;$/;"	m	struct:option
+gates	.\netcat.c	/^HINF ** gates = NULL;		\/* LSRR hop hostpoop *\/$/;"	v
+gatesidx	.\netcat.c	/^int gatesidx = 0;		\/* LSRR hop count *\/$/;"	v
+gatesptr	.\netcat.c	/^int gatesptr = 4;		\/* initial LSRR pointer, settable *\/$/;"	v
+gethostpoop	.\netcat.c	/^HINF * gethostpoop (name, numeric)$/;"	f
+getopt	.\getopt.c	/^getopt (argc, argv, optstring)$/;"	f
+getportpoop	.\netcat.c	/^USHORT getportpoop (pstring, pnum)$/;"	f
+has_arg	.\getopt.h	/^  int has_arg;$/;"	m	struct:option
+helpme	.\netcat.c	/^int helpme()$/;"	f
+hexnibs	.\netcat.c	/^static char hexnibs[20] = "0123456789abcdef  ";$/;"	v	file:
+holler	.\netcat.c	/^void holler (str, p1, p2, p3, p4, p5, p6)$/;"	f
+host_poop	.\netcat.c	/^struct host_poop {$/;"	s	file:
+iaddrs	.\netcat.c	/^  struct in_addr iaddrs[8];	\/* real addresses: in_addr.s_addr: ulong *\/$/;"	m	struct:host_poop	typeref:struct:host_poop::in_addr	file:
+insaved	.\netcat.c	/^unsigned int insaved = 0;	\/* stdin-buffer size for multi-mode *\/$/;"	v
+int16_t	.\yytmp.h	/^typedef short int int16_t;$/;"	t
+int32_t	.\yytmp.h	/^typedef int int32_t;$/;"	t
+int8_t	.\yytmp.h	/^typedef char int8_t;$/;"	t
+jbuf	.\netcat.c	/^jmp_buf jbuf;			\/* timer crud *\/$/;"	v
+jval	.\netcat.c	/^int jval = 0;			\/* timer crud *\/$/;"	v
+last_nonopt	.\getopt.c	/^static int last_nonopt;$/;"	v	file:
+lclend	.\netcat.c	/^SAI * lclend = NULL;		\/* sockaddr_in structs *\/$/;"	v
+loadports	.\netcat.c	/^void loadports (block, lo, hi)$/;"	f
+mRefs	.\RefBase.h	/^	weakref_impl* const mRefs;$/;"	m	class:RefBase
+main	.\getopt.c	/^main (argc, argv)$/;"	f
+main	.\main.cpp	/^int main(void)$/;"	f
+my_index	.\getopt.c	/^my_index (str, chr)$/;"	f	file:
+my_index	.\getopt.c	172;"	d	file:
+name	.\getopt.h	/^  const char *name;$/;"	m	struct:option
+name	.\netcat.c	/^  char name [64];		\/* name in \/etc\/services *\/$/;"	m	struct:port_poop	file:
+name	.\netcat.c	/^  char name[MAXHOSTNAMELEN];	\/* dns name *\/$/;"	m	struct:host_poop	file:
+nc_main	.\netcat.c	/^nc_main (argc, argv)$/;"	f
+netfd	.\netcat.c	/^int netfd = -1;$/;"	v
+nextchar	.\getopt.c	/^static char *nextchar;$/;"	v	file:
+nextport	.\netcat.c	/^USHORT nextport (block)$/;"	f
+nnetfd	.\netcat.c	/^int nnetfd;$/;"	v
+no_argument	.\getopt.h	97;"	d
+num	.\netcat.c	/^  USHORT num;			\/* real host-order number *\/$/;"	m	struct:port_poop	file:
+o_alla	.\netcat.c	/^USHORT o_alla = 0;$/;"	v
+o_interval	.\netcat.c	/^unsigned int o_interval = 0;$/;"	v
+o_listen	.\netcat.c	/^USHORT o_listen = 0;$/;"	v
+o_nflag	.\netcat.c	/^USHORT o_nflag = 0;$/;"	v
+o_random	.\netcat.c	/^USHORT o_random = 0;$/;"	v
+o_tn	.\netcat.c	/^USHORT o_tn = 0;		\/* global -t option *\/$/;"	v
+o_udpmode	.\netcat.c	/^USHORT o_udpmode = 0;$/;"	v
+o_verbose	.\netcat.c	/^USHORT o_verbose = 0;$/;"	v
+o_wait	.\netcat.c	/^unsigned int o_wait = 0;$/;"	v
+o_wfile	.\netcat.c	/^USHORT o_wfile = 0;$/;"	v
+o_zero	.\netcat.c	/^USHORT o_zero = 0;$/;"	v
+ofd	.\netcat.c	/^int ofd = 0;			\/* hexdump output fd *\/$/;"	v
+onFirstRef	.\RefBase.cpp	/^void RefBase::onFirstRef()$/;"	f	class:RefBase
+onIncStrongAttempted	.\RefBase.cpp	/^bool RefBase::onIncStrongAttempted(uint32_t flags, const void* id)$/;"	f	class:RefBase
+onLastStrongRef	.\RefBase.cpp	/^void RefBase::onLastStrongRef(const void* \/*id*\/)$/;"	f	class:RefBase
+onLastWeakRef	.\RefBase.cpp	/^void RefBase::onLastWeakRef(const void* \/*id*\/)$/;"	f	class:RefBase
+oprint	.\netcat.c	/^void oprint (which, buf, n)$/;"	f
+optarg	.\getopt.c	/^char *optarg = NULL;$/;"	v
+optbuf	.\netcat.c	/^char * optbuf = NULL;		\/* LSRR or sockopts *\/$/;"	v
+opterr	.\getopt.c	/^int opterr = 1;$/;"	v
+optind	.\getopt.c	/^int optind = 0;$/;"	v
+option	.\getopt.h	/^struct option$/;"	s
+optional_argument	.\getopt.h	99;"	d
+optopt	.\getopt.c	/^int optopt = '?';$/;"	v
+ordering	.\getopt.c	/^} ordering;$/;"	v	typeref:enum:__anon2	file:
+p_tcp	.\netcat.c	/^static char p_tcp[] = "tcp";	\/* for getservby* *\/$/;"	v	file:
+p_udp	.\netcat.c	/^static char p_udp[] = "udp";$/;"	v	file:
+port_poop	.\netcat.c	/^struct port_poop {$/;"	s	file:
+portpoop	.\netcat.c	/^PINF * portpoop = NULL;		\/* for getportpoop \/ getservby* *\/$/;"	v
+posixly_correct	.\getopt.c	/^static char *posixly_correct;$/;"	v	file:
+pr00gie	.\netcat.c	/^char * pr00gie = NULL;			\/* global ptr to -e arg *\/$/;"	v
+printRefs	.\RefBase.h	/^	inline  void            printRefs() const { getWeakRefs()->printRefs(); }$/;"	f	class:RefBase
+readwrite	.\netcat.c	/^int readwrite (fd)$/;"	f
+remend	.\netcat.c	/^SAI * remend = NULL;$/;"	v
+required_argument	.\getopt.h	98;"	d
+res_init	.\netcat.c	/^void res_init()$/;"	f
+setsockopt_c	.\netcat.c	/^  char * setsockopt_c;$/;"	v
+sleep	.\netcat.c	91;"	d	file:
+smbuff	.\doexec.c	/^char smbuff[20];$/;"	v
+stage	.\netcat.c	/^unsigned char * stage = NULL;	\/* hexdump line buffer *\/$/;"	v
+strcasecmp	.\netcat.c	92;"	d	file:
+theTimer	.\netcat.c	/^UINT theTimer;$/;"	v
+timer1	.\netcat.c	/^struct timeval * timer1 = NULL;$/;"	v	typeref:struct:timeval
+timer2	.\netcat.c	/^struct timeval * timer2 = NULL;$/;"	v	typeref:struct:timeval
+tmtravel	.\netcat.c	/^void tmtravel ()$/;"	f
+trackMe	.\RefBase.h	/^	inline  void            trackMe(bool enable, bool retain)$/;"	f	class:RefBase
+u_int16_t	.\yytmp.h	/^typedef unsigned short int u_int16_t;$/;"	t
+u_int32_t	.\yytmp.h	/^typedef unsigned int u_int32_t;$/;"	t
+u_int8_t	.\yytmp.h	/^typedef unsigned char u_int8_t;$/;"	t
+udptest	.\netcat.c	/^udptest (fd, where)$/;"	f
+uint32_t	.\yytmp.h	/^typedef unsigned int uint32_t;$/;"	t
+unknown	.\netcat.c	/^static char unknown[] = "(UNKNOWN)";$/;"	v	file:
+val	.\getopt.h	/^  int val;$/;"	m	struct:option
+weakref_type	.\RefBase.h	/^	class weakref_type$/;"	c	class:RefBase
+winsockstr	.\netcat.c	/^char * winsockstr(error)$/;"	f
+wrote_net	.\netcat.c	/^unsigned int wrote_net = 0;	\/* total net bytes *\/$/;"	v
+wrote_out	.\netcat.c	/^unsigned int wrote_out = 0;	\/* total stdout bytes *\/$/;"	v
+wrote_txt	.\netcat.c	/^static char wrote_txt[] = " sent %d, rcvd %d";$/;"	v	file:
+~RefBase	.\RefBase.cpp	/^RefBase::~RefBase(void)$/;"	f	class:RefBase
+~ReferenceConverterBase	.\RefBase.h	/^    inline virtual ~ReferenceConverterBase() { }$/;"	f	class:ReferenceConverterBase
