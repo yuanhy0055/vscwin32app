@@ -160,6 +160,14 @@ void CEmu_dispDlg::OnPaint()
 	{
 		CDialog::OnPaint();
 	}
+
+	CWnd * pWnd = GetDlgItem(IDC_STATIC);
+	CDC * pControlDC = pWnd->GetDC();
+	pWnd->Invalidate();
+	pWnd->UpdateWindow();
+	pControlDC->SelectStockObject(BLACK_BRUSH);
+	pControlDC->Rectangle(0,50,50,100);
+	pWnd->ReleaseDC(pControlDC);
 }
 
 // The system calls this to obtain the cursor to display while the user drags
